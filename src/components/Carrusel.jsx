@@ -7,7 +7,7 @@ const Carrusel = () =>
   return (
     <>
 
-      <div id="default-carousel" className="relative w-full border-b-[40px] border-slate-800" data-carousel="">
+      <div id="default-carousel" className="relative w-full border-b-[40px] border-slate-800" data-carousel="slide">
         
         <div className="relative h-52 overflow-hidden  lg:h-[500px]">
           
