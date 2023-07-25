@@ -15,7 +15,7 @@ const Carrusel = () =>
             <img src={ca4} className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="fo1"/>
             <div className='bg-black bg-opacity-40 h-full w-full absolute'>
             <div className='absolute flex flex-col items-start justify-center pl-20  w-[300px] lg:w-1/2 h-full gap-2 lg:gap-10'>
-            <h1 className='text-white font-semibold text-2xl lg:text-6xl'>
+            <h1 className='text-black font-semibold text-2xl lg:text-6xl'>
               Somos Expertos en Redes Complejas
             </h1>
             <span className='text-white font-medium text-xs lg:text-xl'>Tenemos una Solucion para todos sus proyectos y necesidades</span>

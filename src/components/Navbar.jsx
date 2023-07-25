@@ -7,7 +7,7 @@ import { Menu, Transition } from '@headlessui/react'
 const Navbar = () =>
 {
   return (
-    <nav className='fixed w-full p-2 lg:pl-24lg: pr-24 bg-slate-700 shadow-md flex flex-row items-center justify-between'>
+    <nav className='fixed w-full p-2 lg:pl-24 lg:pr-24 bg-slate-700 shadow-md flex flex-row items-center justify-between'>
       <div className='bg-gray-50 rounded-full w-[100px] h-[62px] flex justify-center items-center'>
         <img className='w-[60px]' src={logotipo} alt="logo" />
       </div>

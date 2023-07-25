@@ -10,7 +10,7 @@ import { RiFacebookFill, RiInstagramLine, RiTwitterLine,
     RiServerLine
 
 } from "react-icons/ri";
-import { datacenter, infrestructurati, proteccionelectrica, seguridadygestionti, solucionesderedes, solucionesenergia } from "../assets";
+import { ca2, ca3, ca4, ca5, ca6, datacenter, infrestructurati, proteccionelectrica, seguridadygestionti, solucionesderedes, solucionesenergia } from "../assets";
 
 
 export const redessociales = [
@@ -102,4 +102,47 @@ export const links_servicios =[
         icon: <RiFlashlightLine className="text-yellow-400 ring-1 ring-blue-900 rounded-full"/>,
         img: proteccionelectrica
     }
+]
+
+export const carousel=[
+    {
+        id: 1,
+        img: ca4,
+        title: 'Somos Expertos en Redes Complejas',
+        span: 'Tenemos una Solucion para todos sus proyectos y necesidades',
+        comienze: '',
+        conozca: ''
+    },
+    {
+        id: 2,
+        img: ca5,
+        title: '',
+        span: '',
+        comienze: '',
+        conozca: ''
+    },
+    {
+        id: 3,
+        img: ca6,
+        title: '',
+        span: '',
+        comienze: '',
+        conozca: ''
+    },
+    {
+        id: 4,
+        img: ca3,
+        title: '',
+        span: '',
+        comienze: '',
+        conozca: ''
+    },
+    {
+        id: 5,
+        img: ca2,
+        title: '',
+        span: '',
+        comienze: '',
+        conozca: ''
+    },
 ]
