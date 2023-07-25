@@ -17,7 +17,7 @@ const Home = () => {
         <h1 className='text-4xl font-semibold'>Nuestros Servicios</h1>
         <hr className='w-80 m-2 border-green-200' />
         </div>
-        {/* <CardsServices/> */}
+        <CardsServices/>
       </div>
       <div>
         <h1>Soluciones Tecnologicas </h1>
