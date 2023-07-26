@@ -4,7 +4,7 @@ import { ca2, ca3, ca4, ca5, ca6 } from "../assets"
 const Carousell = () => {
   return (
     <div className='bg-slate-800 border-b-[50px] border-slate-800 shadow-md '>
-      <Carousel slideInterval={5000} className='  h-56  lg:h-[490px]'  >
+      <Carousel slideInterval={5000} className='h-56 lg:h-[490px]'  >
 
 
         <div className="flex h-full items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white">
@@ -47,9 +47,9 @@ const Carousell = () => {
           />
           <div className='absolute bg-black bg-opacity-40  w-full h-full'>
             <div className='absolute flex flex-col items-start justify-center pl-20  w-[300px] lg:w-1/2 h-full gap-2 lg:gap-10'>
-            <h1 className='lg:text-6xl text-2xl font-bold text-white'>Somos Expertos en Redes Complejas</h1>
+            <h1 className='lg:text-6xl text-2xl font-bold text-white'>Tenga total control en la infrestructura de su empresa</h1>
 
-            <span className='text-white font-medium text-xs lg:text-xl'>Tenemos una Solucion para todos sus proyectos y necesidades</span>
+            <span className='text-white font-medium text-xs lg:text-xl'>Empieze a tener el control</span>
 
             </div>
           </div>
@@ -63,9 +63,9 @@ const Carousell = () => {
           />
           <div className='absolute bg-black bg-opacity-40  w-full h-full'>
             <div className='absolute flex flex-col items-start justify-center pl-20  w-[300px] lg:w-1/2 h-full gap-2 lg:gap-10'>
-            <h1 className='lg:text-6xl text-2xl font-bold text-white'>Somos Expertos en Redes Complejas</h1>
+            <h1 className='lg:text-6xl text-2xl font-bold text-white'>Somos expertos en el manejo de energia</h1>
 
-            <span className='text-white font-medium text-xs lg:text-xl'>Tenemos una Solucion para todos sus proyectos y necesidades</span>
+            <span className='text-white font-medium text-xs lg:text-xl'>Contamos con las mejores soluciones</span>
 
             </div>
           </div>
@@ -79,9 +79,9 @@ const Carousell = () => {
           />
           <div className='absolute bg-black bg-opacity-40  w-full h-full'>
             <div className='absolute flex flex-col items-start justify-center pl-20  w-[300px] lg:w-1/2 h-full gap-2 lg:gap-10'>
-            <h1 className='lg:text-6xl text-2xl font-bold text-white'>Somos Expertos en Redes Complejas</h1>
+            <h1 className='lg:text-6xl text-2xl font-bold text-white'>Contactenos para mas informacion sobre nuestros servicios</h1>
 
-            <span className='text-white font-medium text-xs lg:text-xl'>Tenemos una Solucion para todos sus proyectos y necesidades</span>
+            <span className='text-white font-medium text-xs lg:text-xl'>No pierdas mas tiempo...</span>
 
             </div>
           </div>
