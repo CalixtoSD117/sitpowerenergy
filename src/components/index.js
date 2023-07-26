@@ -2,7 +2,7 @@ import Navbar from "./Navbar";
 import CardsServices from "./CardsServices";
 import Footer from "./Footer";
 import Carrusel from "./Carrusel";
-import Carousel from "./Carousel";
+import Carousell from "./Carousell";
 
 
 export {
@@ -10,5 +10,5 @@ export {
     , CardsServices
     , Footer
     , Carrusel
-    , Carousel
+    , Carousell
 }
